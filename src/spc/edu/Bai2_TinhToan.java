@@ -12,6 +12,9 @@ import java.awt.BorderLayout;
  */
 public class Bai2_TinhToan {
     public static void main(String[] args) {
-        System.out.println("Tính Toán");
+        System.out.println("Tinh Tong 2 So Nguyen");
+        int a=15,b=16;
+        int tong = a+b;
+        System.out.println("Tong = "+tong);
     }
 }
